@@ -1,0 +1,26 @@
+---
+title: "Yael Hernandez"
+image: "yo_image.jpg"
+links:
+  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
+    url: "https://twitter.com/yherngon/"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/YaelHernG/"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "mailto:yaelhgs@gmail.com"
+output:
+  postcards::jolla
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+
+#### **Bio**
+
+I am interested in systems biology, inmmune disease, mathematical modeling and machine learning.
+
+#### **Education**
+
+**Undergraduate student** \| \| ENESJ-UNAM \| Genomics Sciences \| August 2023 - Present
+
