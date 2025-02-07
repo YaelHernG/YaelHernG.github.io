@@ -8,6 +8,7 @@ links:
     url: "https://github.com/YaelHernG/"
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:yaelhgs@gmail.com"
+  - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
 output:
   postcards::jolla
 ---
