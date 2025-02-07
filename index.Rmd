@@ -9,6 +9,7 @@ links:
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:yaelhgs@gmail.com"
   - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
+    url: "cv_YaelH.html"
 output:
   postcards::jolla
 ---
