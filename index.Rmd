@@ -22,7 +22,7 @@ library(fontawesome)
 
 Interested in systems biology, to understanding how plastic traits are defining in gene regulatory circuits and explain the fundamental properties about plasticity in biology with mathematical modeling.
 
-Other interests are Machine Learning, Maths, Molecular Biology, Statistics and Synthetic Biology.
+Other interests are Machine Learning, Maths, Molecular Biology, Statistics and Synthetic Biology hola.
 
 #### **Education**
 
